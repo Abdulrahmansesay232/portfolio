@@ -11,28 +11,28 @@ const Projects = () => {
       title: "devlog",
       desc: " A multi author blog. Built with Node.js, MongoDB, React, Redux and Tailwind CSS ",
       live: "https://devlogg.onrender.com/",
-      code: "https://github.com/Coderamrin/devlog",
+      code: "https://github.com/JamesMustaphaJr/devlog",
     },
     {
       img: uilogs,
       title: "uilogs",
       desc: "Free website template directory for SaaS and Degital Agency. Built with Bootstrap, JQuery and JavaScript",
       live: "https://uilogs.xyz/",
-      code: "https://github.com/Coderamrin/html-templates",
+      code: "https://github.com/JamesMustaphaJr/html-templates",
     },
     {
       img: cssProjects,
       title: "css projects",
       desc: "Frontend Mentor challange directory, solved with vanilla CSS",
       live: "https://build-10-css-projects.netlify.app/",
-      code: "https://github.com/Coderamrin/build-10-css-projects",
+      code: "https://github.com/JamesMustaphaJr/build-10-css-projects",
     },
     {
       img: getInspirred,
       title: "get Inspirred",
       desc: "Quote search app. Used Quotable API for the quotes and React, Redux on the frontend",
       live: "https://get-inspirred.netlify.app/",
-      code: "https://github.com/Coderamrin/get-inspired",
+      code: "https://github.com/JamesMustaphaJr/get-inspired",
     },
   ];
 
